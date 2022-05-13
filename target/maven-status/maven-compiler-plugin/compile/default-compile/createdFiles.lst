@@ -1,0 +1,10 @@
+com\mycompany\webservicesfinalproject\resources\TransactionResource.class
+com\mycompany\webservicesfinalproject\models\Account.class
+com\mycompany\webservicesfinalproject\resources\CustomerResource.class
+com\mycompany\webservicesfinalproject\models\Transaction.class
+com\mycompany\webservicesfinalproject\services\CustomerService.class
+com\mycompany\webservicesfinalproject\services\TransactionService.class
+com\mycompany\webservicesfinalproject\resources\AccountResource.class
+com\mycompany\webservicesfinalproject\services\AccountService.class
+com\mycompany\webservicesfinalproject\databases\Database.class
+com\mycompany\webservicesfinalproject\models\Customer.class
